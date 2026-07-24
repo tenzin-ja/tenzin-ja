@@ -1,5 +1,5 @@
 
-Hi I'm Tenzin. I'm a Math–Computer Science student at UC San Diego, based in California. I'm interested in backend development, software engineering, and building reliable applications.
+Hi I'm Tenzin. I'm a Math–Computer Science student at UC San Diego, based in California. I'm interested in backend/full stack development, software engineering, and building reliable applications.
 
 ### Currently
 
