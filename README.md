@@ -1,16 +1,13 @@
-## Hi there 👋
+# Tenzin Jamyang
 
-<!--
-**tenzin-ja/tenzin-ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Math–Computer Science student at UC San Diego, based in California. I'm interested in backend development, software engineering, and building reliable applications.
 
-Here are some ideas to get you started:
+### Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building [Cardfolio](https://github.com/tenzin-ja/cardfolio), a trading-card collection and portfolio tracker
+- Learning more about backend architecture, API design, automated testing, and database design
+- Working primarily with Python, FastAPI, SQLAlchemy, SQL, pytest, and Git
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/tenzin-ja/)
