@@ -1,5 +1,5 @@
 
-Hi, I’m Tenzin. I'm an asipring software engineer who enjoys learning by building software and learning as I go.
+Hi, I’m Tenzin. I'm an asipring software engineer who enjoys learning by building software and developing my skills as I go.
 
 Math–CS, UC San Diego · California
  
